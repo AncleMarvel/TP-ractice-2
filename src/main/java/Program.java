@@ -10,5 +10,9 @@ public class Program {
         System.out.println("Please wait...");
         int[] sequence = fibo.generateSequence();
         fibo.showSequence(sequence);
+        System.out.print("-----------------------------------------------------------------------------------");
+        int n = -11;
+        fibo.getN(n);
+        System.out.print(fibo.getN(n));
     }
 }
