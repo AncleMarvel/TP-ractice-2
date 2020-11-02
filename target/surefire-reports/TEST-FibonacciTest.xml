@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="FibonacciTest" time="0.316" tests="2" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="FibonacciTest" time="0.359" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -20,7 +20,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="allure.link.issue.pattern" value="https://example.org/browse/{}"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_241\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\frank\AppData\Local\Temp\surefire5640416649426498422\surefirebooter2897463296993755030.jar C:\Users\frank\AppData\Local\Temp\surefire5640416649426498422 2020-11-02T19-42-39_857-jvmRun1 surefire2123636659507652621tmp surefire_05912732467426637420tmp"/>
+    <property name="sun.java.command" value="C:\Users\frank\AppData\Local\Temp\surefire5423764226543777493\surefirebooter7683958878255887695.jar C:\Users\frank\AppData\Local\Temp\surefire5423764226543777493 2020-11-02T19-50-14_231-jvmRun1 surefire5079083071228118049tmp surefire_07469960015302313042tmp"/>
     <property name="surefire.test.class.path" value="C:\Programming\Techonlogy_of_Programming\pr_2\target\test-classes;C:\Programming\Techonlogy_of_Programming\pr_2\target\classes;C:\Users\frank\.m2\repository\org\junit\jupiter\junit-jupiter\5.7.0\junit-jupiter-5.7.0.jar;C:\Users\frank\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.7.0\junit-jupiter-api-5.7.0.jar;C:\Users\frank\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\frank\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\frank\.m2\repository\org\junit\platform\junit-platform-commons\1.7.0\junit-platform-commons-1.7.0.jar;C:\Users\frank\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.7.0\junit-jupiter-params-5.7.0.jar;C:\Users\frank\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.7.0\junit-jupiter-engine-5.7.0.jar;C:\Users\frank\.m2\repository\org\junit\platform\junit-platform-engine\1.7.0\junit-platform-engine-1.7.0.jar;C:\Users\frank\.m2\repository\io\qameta\allure\allure-junit5\2.13.6\allure-junit5-2.13.6.jar;C:\Users\frank\.m2\repository\io\qameta\allure\allure-junit-platform\2.13.6\allure-junit-platform-2.13.6.jar;C:\Users\frank\.m2\repository\io\qameta\allure\allure-java-commons\2.13.6\allure-java-commons-2.13.6.jar;C:\Users\frank\.m2\repository\io\qameta\allure\allure-model\2.13.6\allure-model-2.13.6.jar;C:\Users\frank\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\frank\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.11.2\jackson-databind-2.11.2.jar;C:\Users\frank\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.11.2\jackson-annotations-2.11.2.jar;C:\Users\frank\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.11.2\jackson-core-2.11.2.jar;C:\Users\frank\.m2\repository\org\apache\tika\tika-core\1.24.1\tika-core-1.24.1.jar;C:\Users\frank\.m2\repository\org\jooq\joor-java-8\0.9.13\joor-java-8-0.9.13.jar;C:\Users\frank\.m2\repository\org\junit\platform\junit-platform-launcher\1.7.0\junit-platform-launcher-1.7.0.jar;"/>
     <property name="allure.results.directory" value="C:\Programming\Techonlogy_of_Programming\pr_2\target/allure-results"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -35,7 +35,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\frank\AppData\Local\Temp\surefire5640416649426498422\surefirebooter2897463296993755030.jar;C:\Users\frank\.m2\repository/org/aspectj/aspectjweaver/1.8.10/aspectjweaver-1.8.10.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\frank\AppData\Local\Temp\surefire5423764226543777493\surefirebooter7683958878255887695.jar;C:\Users\frank\.m2\repository/org/aspectj/aspectjweaver/1.8.10/aspectjweaver-1.8.10.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_241\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_241\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_241\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_241\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_241\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_241\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_241\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_241\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -65,6 +65,6 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="generateSequence" classname="FibonacciTest" time="0.25"/>
+  <testcase name="generateSequence" classname="FibonacciTest" time="0.275"/>
   <testcase name="getN" classname="FibonacciTest" time="0.009"/>
 </testsuite>
